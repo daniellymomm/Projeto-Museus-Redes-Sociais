@@ -1,0 +1,97 @@
+
+body{
+    background: url(../Projeto-museu/background-5.jpg);
+    background-color: #000000;
+    background-size: cover;
+    background-position: center bottom;
+    background-attachment: scroll;
+    background-repeat: repeat-y;
+}
+
+
+
+
+/*body{
+    background-image: url('..//Projeto-museu/background.jpg') ;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position-x: 0px;
+    background-repeat: repeat-y;
+    height: 100%;
+    width: 100%;
+    
+}
+
+/*background-color: #000000;
+background-size: cover;
+background-position: center bottom;
+background-repeat: no-repeat;*/
+
+
+.nav-item2{
+    font-size: 20px;
+    padding-top: 40px;
+    padding-bottom: 10px;
+
+}
+
+.nav-link{
+    color: darkgoldenrod;
+}
+
+.col-8{
+    font-size: 20px;
+    font-family: 'Ubuntu Mono', monospace;
+    text-align: justify;
+    padding: 80px;
+
+}
+.col-4{
+    animation: fadein 2s infinite alternate;
+    padding-left: 20px;
+}
+
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+
+textarea {
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+textarea {
+    padding: 10px;
+    max-width: 100%;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+
+.nome{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.comentario{
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+button{
+    margin-left: 30px;
+}
+
+
+
+/**
+
+* {
+    background: #000 !important;
+    color: #0f0 !important;
+    outline: solid #f00 1px !important;
+  }
+
