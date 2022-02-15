@@ -8,26 +8,6 @@ body{
     background-repeat: repeat-y;
 }
 
-
-
-
-/*body{
-    background-image: url('..//Projeto-museu/background.jpg') ;
-    background-attachment: scroll;
-    background-size: contain;
-    background-position-x: 0px;
-    background-repeat: repeat-y;
-    height: 100%;
-    width: 100%;
-    
-}
-
-/*background-color: #000000;
-background-size: cover;
-background-position: center bottom;
-background-repeat: no-repeat;*/
-
-
 .nav-item2{
     font-size: 20px;
     padding-top: 40px;
@@ -86,12 +66,4 @@ button{
 }
 
 
-
-/**
-
-* {
-    background: #000 !important;
-    color: #0f0 !important;
-    outline: solid #f00 1px !important;
-  }
 
